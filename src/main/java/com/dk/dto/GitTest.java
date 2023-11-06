@@ -18,6 +18,7 @@ public class GitTest {
         System.out.println("今天周一没有更新");
         System.out.println("push test");
         System.out.println("pull test");
-        System.out.println("remote pull 合并冲突test")
+        System.out.println("master 合并冲突");
+        System.out.println("remote pull 合并冲突test");
     }
 }
