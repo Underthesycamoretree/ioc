@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("这是第二次简单的测试");
         System.out.println("这是第三次简单的测试");
         System.out.println("你好");
+        System.out.println("我们不一样");
     }
 }
