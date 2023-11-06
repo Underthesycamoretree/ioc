@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("骸骨骑士也已经开始了");
         System.out.println("今天周一没有更新");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
